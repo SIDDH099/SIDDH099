@@ -1,0 +1,6 @@
+{
+  "name": "मनीषा ब्लाऊज सेंटर आणि साडी शॉप",
+  "description": "मनीषा ब्लाऊज सेंटर आणि साडी शॉप - व्यवसाय व्यवस्थापन प्रणाली, मापवही, ग्राहक नोंदणी, बिलिंग आणि साडी कॅटलॉग",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
